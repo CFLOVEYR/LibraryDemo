@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\WorkSpace\\Studio\\LibraryDemo\\testXUtils\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\WorkSpace\\Studio\\LibraryDemo\\testXUtils\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\WorkSpace\\Studio\\LibraryDemo\\testXUtils\\build\\intermediates\\res\\merged\\debug\\menu\\fragment_inject_actvity.xml",
+        "source": "E:\\WorkSpace\\Studio\\LibraryDemo\\testXUtils\\src\\main\\res\\menu\\fragment_inject_actvity.xml"
+    }
+]
